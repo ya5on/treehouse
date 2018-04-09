@@ -1,0 +1,49 @@
+.culture {
+	background-color: #f9f9f9;
+}
+
+.border_right {
+	margin-bottom: 35px;
+	display: inline-block;
+	position: relative;
+
+	img {
+		display: block;
+
+	}
+
+	&:after {
+		content: '';
+		display: block;
+		width: 100%;
+		height: 2px;
+		background: #777;
+		position: absolute;
+		left:120%;
+		top:50%;
+		margin-top: -1px;
+	}
+}
+
+.border_left {
+	margin-bottom: 35px;
+	display: inline-block;
+	position: relative;
+
+	img {
+		display: block;
+
+	}
+
+	&:before {
+		content: '';
+		display: block;
+		width: 100%;
+		height:2px;
+		background: #777;
+		position: absolute;
+		right:120%;
+		top:50%;
+		margin-top: -1px;
+	}
+}

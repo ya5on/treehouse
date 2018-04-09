@@ -1,0 +1,4 @@
+[2018-02-13 19:01:27] layer "hello@treehouse.com": Unsupported extension: com
+[2018-02-13 19:01:26] layer "Google+": Expected end of input but "+" found.
+[2018-02-13 19:01:26] layer "© Copyright 2014 FreebiesXpress.com": Unsupported extension: com
+[2018-02-13 19:01:26] layer "Google+": Expected end of input but "+" found.
